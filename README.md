@@ -7,9 +7,9 @@ https://github.com/binerry/RaspberryPi/tree/master/libraries/c/PCD8544
 
 You need to build WiringPi before build this code
 
-cd ~
-git clone git://git.drogon.net/wiringPi
-cd wiringPi
-./build
+	cd ~
+	git clone git://git.drogon.net/wiringPi
+	cd wiringPi
+	./build
 
 

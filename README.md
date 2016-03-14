@@ -13,9 +13,11 @@ You need to build WiringPi before build this code
 	./build
 
 and then
+
 add the program in /etc/rc.local
+
 ex.
 
-	/root/monitor/show_info &
+	/root/rpi_show_info/show_info &
 	
 

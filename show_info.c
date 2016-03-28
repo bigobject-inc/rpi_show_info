@@ -53,7 +53,7 @@ int _rst = 4;
 int _cs = 3;
   
 // lcd contrast 
-int contrast = 50;
+int contrast = 55;
   
 int main (void)
 {

@@ -7,7 +7,7 @@ and
 https://github.com/binerry/RaspberryPi/tree/master/libraries/c/PCD8544
 
 
-* This code just add one line to display eth0 ip address. *
+**This code just add one line to display eth0 ip address.**
 
 You need to build WiringPi before build this code
 
